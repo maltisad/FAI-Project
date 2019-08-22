@@ -1,0 +1,71 @@
+﻿.logo img{
+    width: 100%;
+    margin-top: 21px;
+}
+.container{
+    margin-left:0;
+}
+#product .block-1 {
+    width: 1500px;
+}
+#main .info-wrapper {
+    width: 1500px;
+}
+
+.form-horizontal {
+    margin-left: 500px;
+}
+.form-control {
+   
+    height: 36px;
+ 
+    font-size: 14px;
+   
+}
+span#MainContent_TitlePageLabel {
+    margin-left: 140px;
+    font-size: 15px;
+}
+input#MainContent_ImageButton1 {
+    margin-top: 5px;
+}
+input#MainContent_DataTextBox {
+    float: left;
+    margin-bottom: 11px;
+}
+select#MainContent_GrupiDropDownList {
+    width: 300px;
+    border-radius: 4px;
+    height: 33px;
+    margin-bottom: 13px;
+}
+.butonat {
+    margin-left: 120px;
+}
+input#MainContent_CancelButton {
+    width: 100px;
+    height: 39px;
+    height: 38px;
+    width: 107px;
+    /* margin-left: 107px; */
+    font-size: 15px;
+}
+input#MainContent_SaveButton {
+    height: 38px;
+    width: 107px;
+    margin-left: 47px;
+    font-size: 15px;
+}
+span#MainContent_lblError {
+    margin-left: 43px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+input#MainContent_btnOK, input#MainContent_btnCancel {
+    font-size: 12px;
+    width: 103px;
+    height: 28px;
+}
+.DelButtons{
+    margin-left:20px;
+}

@@ -1,0 +1,60 @@
+﻿img{
+    margin-top:20px;
+}
+
+table#MainContent_ListGridView {
+    margin-left: 167px;
+    margin-top: 20px;
+}
+.form-body {
+    margin-left: 387px;
+}
+.form-control {
+    font-size: 13px;
+}
+select#MainContent_KategoriaDropDownList {
+    width: 182px;
+    height: 25px;
+    margin-top: 6px;
+}
+input#MainContent_CancelButton {
+    width: 100px;
+    height: 31px;
+ 
+    width: 107px;
+    /* margin-left: 107px; */
+    font-size: 15px;
+}
+
+input#MainContent_SaveButton {
+    height: 31px;
+    width: 107px;
+    margin-left: 47px;
+    font-size: 15px;
+}
+.EditButtons {
+    margin-top: 22px;
+}
+span#MainContent_TitlePageLabel {
+    margin-left: 443px;
+    font-size: 16px;
+}
+span#MainContent_lblError {
+    
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+input#MainContent_btnOK, input#MainContent_btnCancel {
+    font-size: 12px;
+    width: 103px;
+    height: 28px;
+}
+
+.DelButtons {
+    margin-left: 248px;
+}
+
+.form-body1 {
+    margin-left: 308px;
+}
